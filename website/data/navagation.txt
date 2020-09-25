@@ -1,0 +1,22 @@
+<nav>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+<ul><li><a href="index.php">	Home	</a></li>
+<li><a href="AboutUs.html">	About Us	</a></li>
+<li><a href="MissionVission.html">	Vision &amp; Mission	</a></li>
+<li><a href="WhoWeServe.html">	Who We Serve	</a></li>
+<div class="dropdown"><button class="dropbtn" disabled>More...</button><div class="dropdown-content">
+	<li><a href="Team.html">	Meet the Team	</a></li>
+	<li><a href="CorporateWellnessEducation.html">	Corporate Wellness Education	</a></li>
+	<li><a href="IndividualsInRecovery.html">	Individuals in Recovery	</a></li>
+	<li><a href="ReEmploymentProgram.html">	Re&ndash;Employment Program	</a></li>
+	<li><a href="Videos.html">	Video's	</a></li>
+	<li><a href="ContactUs.html">	Contact Us	</a></li>
+	<li><a href="LabTest.html">	Lab Test	</a></li>
+	</div>
+</div>
+<li><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="WM7CP9U33LZJG"><input type="submit" value="Donate" name="submit" title="PayPal - The safer, easier way to pay online!" class="dropbtn"><img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</li></ul>
+
+</form>
+
+</nav>
